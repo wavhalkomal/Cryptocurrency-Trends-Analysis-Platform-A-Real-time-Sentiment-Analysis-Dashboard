@@ -29,3 +29,15 @@ learning, natural language processing (NLP), and time-series forecasting within 
 • Developers and Entrepreneurs: Who could use the platform's insights to build tools and strategies
 for better cryptocurrency portfolio management.
 
+Data Collection:
+To develop this platform, data will be collected from multiple sources:
+• CoinGecko API: Provides historical and real-time cryptocurrency market data, including price movements,
+trading volume, and market capitalization.
+• NewsAPI: Aggregates news articles and real-time news coverage related to cryptocurrencies, providing
+insights into the influence of news sentiment on the market.
+• Reddit API: Extracts discussions, comments, and sentiment from Reddit threads focused on cryptocurrency,
+offering a direct look at how community sentiment evolves.
+• Twitter Datasets: Will be used to fetch historical tweets related to cryptocurrencies. Real-time sentiment
+analysis will be based on Twitter posts, which are often leading indicators of market movements.
+• Web Scraping (Yahoo Finance Data): Web scraping techniques will be employed to collect detailed Bitcoin
+price data, including parameters like opening price, closing price, high, low, and volume.
