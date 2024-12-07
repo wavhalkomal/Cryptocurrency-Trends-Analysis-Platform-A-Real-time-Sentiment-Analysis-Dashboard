@@ -11,10 +11,10 @@ enables us to evaluate whether specific influencers or persuasive messages hold 
 windows and thereby impact trading behaviors and price trends.
  
 
-To build this platform, we’ll aggregate data from multiple sources, including:
-## • CoinGecko API, News API, and Reddit API: These APIs will provide real-time and historical market data along with sentiment insights, derived from discussions on Reddit and global news platforms.
-## • Twitter Datasets: By incorporating social media data from Twitter, we will enrich our analysis with sentiment trends from influential voices in the cryptocurrency community.
-## • Yahoo Finance Data: Using web scraping, we’ll gather Bitcoin price data (open, close, high, low, and volume) to correlate with sentiment and persuasive patterns to observe price changes.
+## To build this platform, we’ll aggregate data from multiple sources, including:
+ • CoinGecko API, News API, and Reddit API: These APIs will provide real-time and historical market data along with sentiment insights, derived from discussions on Reddit and global news platforms.
+ • Twitter Datasets: By incorporating social media data from Twitter, we will enrich our analysis with sentiment trends from influential voices in the cryptocurrency community.
+ • Yahoo Finance Data: Using web scraping, we’ll gather Bitcoin price data (open, close, high, low, and volume) to correlate with sentiment and persuasive patterns to observe price changes.
 
 
 ## Interest and Contributions:
@@ -25,8 +25,8 @@ This project is of significant interest to multiple stakeholders, including:
 
 ## Data Collection:
 To develop this platform, data will be collected from multiple sources:
-## • CoinGecko API: Provides historical and real-time cryptocurrency market data, including price movements, trading volume, and market capitalization.
-## • NewsAPI: Aggregates news articles and real-time news coverage related to cryptocurrencies, providing insights into the influence of news sentiment on the market.
-## • Reddit API: Extracts discussions, comments, and sentiment from Reddit threads focused on cryptocurrency, offering a direct look at how community sentiment evolves.
-## • Twitter Datasets: Will be used to fetch historical tweets related to cryptocurrencies. Real-time sentiment analysis will be based on Twitter posts, which are often leading indicators of market movements.
-## • Web Scraping (Yahoo Finance Data): Web scraping techniques will be employed to collect detailed Bitcoin price data, including parameters like opening price, closing price, high, low, and volume.
+ • CoinGecko API: Provides historical and real-time cryptocurrency market data, including price movements, trading volume, and market capitalization.
+ • NewsAPI: Aggregates news articles and real-time news coverage related to cryptocurrencies, providing insights into the influence of news sentiment on the market.
+ • Reddit API: Extracts discussions, comments, and sentiment from Reddit threads focused on cryptocurrency, offering a direct look at how community sentiment evolves.
+ • Twitter Datasets: Will be used to fetch historical tweets related to cryptocurrencies. Real-time sentiment analysis will be based on Twitter posts, which are often leading indicators of market movements.
+ • Web Scraping (Yahoo Finance Data): Web scraping techniques will be employed to collect detailed Bitcoin price data, including parameters like opening price, closing price, high, low, and volume.
