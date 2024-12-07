@@ -18,3 +18,14 @@ data along with sentiment insights, derived from discussions on Reddit and globa
 sentiment trends from influential voices in the cryptocurrency community.
 • Yahoo Finance Data: Using web scraping, we’ll gather Bitcoin price data (open, close, high, low, and
 volume) to correlate with sentiment and persuasive patterns to observe price changes.
+
+
+Interest and Contributions:
+This project is of significant interest to multiple stakeholders, including:
+• Investors and Traders: Who seek to optimize their decision-making processes by understanding the
+influence of social media sentiment on cryptocurrency prices.
+• Researchers and Data Scientists: Interested in advancing the application of machine
+learning, natural language processing (NLP), and time-series forecasting within financial markets.
+• Developers and Entrepreneurs: Who could use the platform's insights to build tools and strategies
+for better cryptocurrency portfolio management.
+
